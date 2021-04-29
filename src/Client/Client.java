@@ -3,19 +3,20 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pongesort;
+package Client;
 
 /**
  *
  * @author zara.alessio
  */
-public class PongeSort {
+public class Client {
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
     
 }
+
